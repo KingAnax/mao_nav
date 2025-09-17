@@ -89,6 +89,13 @@ export const mockData = {
           "url": "https://tv.199311.xyz/music/",
           "description": "音乐",
           "icon": "https://tv.199311.xyz/favicon.ico"
+        },
+        {
+          "id": "site-1758120629610",
+          "name": "小鸡资源",
+          "url": "https://steamzg.com/",
+          "description": "游戏下载",
+          "icon": ""
         }
       ]
     }
