@@ -5,7 +5,15 @@ export const mockData = {
       "icon": "🔍",
       "name": "人工智能",
       "order": 0,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1758121284124",
+          "name": "nanobanana",
+          "url": "https://nanobananafree.ai/",
+          "description": "freenanobanana",
+          "icon": "https://nanobananafree.ai/favicon.ico"
+        }
+      ]
     },
     {
       "id": "tools",
