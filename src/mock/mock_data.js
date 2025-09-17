@@ -69,6 +69,13 @@ export const mockData = {
           "url": "https://so.ddns-ip.net/",
           "description": "元搜索引擎",
           "icon": "https://so.ddns-ip.net/static/themes/simple/img/favicon.png"
+        },
+        {
+          "id": "site-1758122908532",
+          "name": "酷酷解析",
+          "url": "https://dy.kukutool.com/",
+          "description": "视频解析下载",
+          "icon": "https://dy.kukutool.com/icon-512.png"
         }
       ]
     },
