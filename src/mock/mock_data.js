@@ -21,13 +21,6 @@ export const mockData = {
           "icon": "/sitelogo/regex101.com.ico"
         },
         {
-          "id": "caniuse",
-          "name": "Can I Use",
-          "url": "https://caniuse.com",
-          "description": "浏览器兼容性查询",
-          "icon": "/sitelogo/caniuse.com.ico"
-        },
-        {
           "id": "tinypng",
           "name": "TinyPNG",
           "url": "https://tinypng.com",
