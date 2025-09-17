@@ -196,6 +196,12 @@ export const mockData = {
           "url": "https://www.nite07.com",
           "description": "破解软件下载",
           "icon": ""
+        },
+        {
+          "id": "site-1758123442634",
+          "name": "果核剥壳",
+          "url": "https://www.ghxi.com/",
+          "description": "破解软件下载"
         }
       ]
     }
