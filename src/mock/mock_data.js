@@ -182,6 +182,13 @@ export const mockData = {
           "url": "https://dy.kukutool.com/",
           "description": "视频解析下载",
           "icon": "https://dy.kukutool.com/icon-512.png"
+        },
+        {
+          "id": "site-1758123218038",
+          "name": "crx搜搜",
+          "url": "https://www.crxsoso.com/",
+          "description": "crx插件下载",
+          "icon": "https://www.crxsoso.com/apple-touch-icon.png"
         }
       ]
     }
