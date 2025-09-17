@@ -69,13 +69,6 @@ export const mockData = {
           "url": "https://so.ddns-ip.net/",
           "description": "元搜索引擎",
           "icon": "https://so.ddns-ip.net/static/themes/simple/img/favicon.png"
-        },
-        {
-          "id": "site-1758122908532",
-          "name": "酷酷解析",
-          "url": "https://dy.kukutool.com/",
-          "description": "视频解析下载",
-          "icon": "https://dy.kukutool.com/icon-512.png"
         }
       ]
     },
@@ -182,6 +175,13 @@ export const mockData = {
           "url": "https://annas-archive.org/",
           "description": "图书下载",
           "icon": "https://annas-archive.org/favicon-32x32.png?hash=989ac03e6b8daade6d2d"
+        },
+        {
+          "id": "site-1758122908532",
+          "name": "酷酷解析",
+          "url": "https://dy.kukutool.com/",
+          "description": "视频解析下载",
+          "icon": "https://dy.kukutool.com/icon-512.png"
         }
       ]
     }
