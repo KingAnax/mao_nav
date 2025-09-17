@@ -209,6 +209,13 @@ export const mockData = {
           "url": "https://www.itrmb.com/",
           "description": "破解软件下载",
           "icon": "https://www.itrmb.com/view/img/favicon.ico"
+        },
+        {
+          "id": "site-1758123623842",
+          "name": "异星软件空间",
+          "url": "https://www.yxssp.com/",
+          "description": "破解软件下载",
+          "icon": "https://www.yxssp.com/wp-content/uploads/2017/12/yx250.png"
         }
       ]
     }
