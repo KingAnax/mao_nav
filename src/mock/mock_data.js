@@ -134,6 +134,13 @@ export const mockData = {
           "icon": "https://tv.199311.xyz/favicon.ico"
         },
         {
+          "id": "site-1758122371053",
+          "name": "GD音乐台",
+          "url": "https://music.gdstudio.xyz/",
+          "description": "音乐",
+          "icon": "https://music.gdstudio.xyz/favicon.ico"
+        },
+        {
           "id": "site-1758120629610",
           "name": "小叽资源",
           "url": "https://steamzg.com/",
@@ -146,13 +153,6 @@ export const mockData = {
           "url": "https://www.gamer520.com/",
           "description": "游戏下载",
           "icon": "https://ig.freer.blog/2023/10/25/d67adcffb89dd.jpg"
-        },
-        {
-          "id": "site-1758122371053",
-          "name": "GD音乐台",
-          "url": "https://music.gdstudio.xyz/",
-          "description": "音乐",
-          "icon": "https://music.gdstudio.xyz/favicon.ico"
         }
       ]
     }
