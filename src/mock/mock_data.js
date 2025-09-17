@@ -68,6 +68,13 @@ export const mockData = {
           "name": "低端影视",
           "url": "https://ddys.pro/",
           "description": "影视"
+        },
+        {
+          "id": "site-1758120146118",
+          "name": "皮皮妖",
+          "url": "https://www.pipiyao.cc/",
+          "description": "影视",
+          "icon": "https://www.pipiyao.cc/mxtheme/images/favicon.png"
         }
       ]
     }
