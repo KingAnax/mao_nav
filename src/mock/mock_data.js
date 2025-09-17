@@ -168,7 +168,15 @@ export const mockData = {
       "icon": "🌐",
       "name": "下载网站",
       "order": 3,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1758122676868",
+          "name": "安娜的档案",
+          "url": "https://annas-archive.org/",
+          "description": "图书下载",
+          "icon": "https://annas-archive.org/favicon-32x32.png?hash=989ac03e6b8daade6d2d"
+        }
+      ]
     }
   ],
   "title": "猫猫导航"
