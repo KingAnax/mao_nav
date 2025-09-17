@@ -19,6 +19,13 @@ export const mockData = {
           "url": "https://www.doubao.com/",
           "description": "豆包AI",
           "icon": "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao/web/logo-icon.png"
+        },
+        {
+          "id": "site-1758122098819",
+          "name": "kimi",
+          "url": "https://www.kimi.com/",
+          "description": "kimi AI",
+          "icon": "https://statics.moonshot.cn/kimi-web-seo/favicon.ico"
         }
       ]
     },
