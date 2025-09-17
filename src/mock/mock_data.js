@@ -82,6 +82,13 @@ export const mockData = {
           "url": "https://cn.webmota.com/",
           "description": "漫画",
           "icon": "https://static-tw.baozimh.com/static/bzmh/img/favicon.ico"
+        },
+        {
+          "id": "site-1758120343786",
+          "name": "云音乐",
+          "url": "https://tv.199311.xyz/music/",
+          "description": "音乐",
+          "icon": "https://tv.199311.xyz/favicon.ico"
         }
       ]
     }
