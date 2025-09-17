@@ -33,6 +33,13 @@ export const mockData = {
           "url": "https://tinypng.com",
           "description": "图片压缩工具",
           "icon": "/sitelogo/tinypng.com.ico"
+        },
+        {
+          "id": "site-1758120694281",
+          "name": "gamer520",
+          "url": "https://www.gamer520.com/",
+          "description": "游戏下载",
+          "icon": "https://ig.freer.blog/2023/10/25/d67adcffb89dd.jpg"
         }
       ]
     },
@@ -92,10 +99,10 @@ export const mockData = {
         },
         {
           "id": "site-1758120629610",
-          "name": "小鸡资源",
+          "name": "小叽资源",
           "url": "https://steamzg.com/",
           "description": "游戏下载",
-          "icon": ""
+          "icon": "https://steamzg.com/wp-content/uploads/2021/10/cropped-hdpeb22e763-3cf4-41cc-a506-2179d40f2330-10886022-32x32.webp"
         }
       ]
     }
