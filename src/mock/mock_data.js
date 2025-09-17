@@ -1,10 +1,17 @@
 export const mockData = {
   "categories": [
     {
+      "id": "category-1758121204609",
+      "icon": "🔍",
+      "name": "人工智能",
+      "order": 0,
+      "sites": []
+    },
+    {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 7,
+      "order": 1,
       "sites": [
         {
           "id": "json-formatter",
@@ -33,7 +40,7 @@ export const mockData = {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 8,
+      "order": 2,
       "sites": [
         {
           "id": "bilibili",
