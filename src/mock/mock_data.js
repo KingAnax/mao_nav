@@ -202,6 +202,13 @@ export const mockData = {
           "name": "果核剥壳",
           "url": "https://www.ghxi.com/",
           "description": "破解软件下载"
+        },
+        {
+          "id": "site-1758123563258",
+          "name": "数字人民币",
+          "url": "https://www.itrmb.com/",
+          "description": "破解软件下载",
+          "icon": "https://www.itrmb.com/view/img/favicon.ico"
         }
       ]
     }
