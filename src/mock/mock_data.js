@@ -41,6 +41,13 @@ export const mockData = {
           "url": "https://tinypng.com",
           "description": "图片压缩工具",
           "icon": "/sitelogo/tinypng.com.ico"
+        },
+        {
+          "id": "site-1758121454635",
+          "name": "ilovepdf",
+          "url": "https://www.ilovepdf.com/",
+          "description": "pdf工具",
+          "icon": "https://www.ilovepdf.com/img/favicons-pdf/favicon-32x32.png"
         }
       ]
     },
