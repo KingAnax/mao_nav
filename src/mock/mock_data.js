@@ -162,6 +162,13 @@ export const mockData = {
           "icon": "https://ig.freer.blog/2023/10/25/d67adcffb89dd.jpg"
         }
       ]
+    },
+    {
+      "id": "category-1758122625711",
+      "icon": "🌐",
+      "name": "下载网站",
+      "order": 3,
+      "sites": []
     }
   ],
   "title": "猫猫导航"
