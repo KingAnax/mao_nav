@@ -48,6 +48,13 @@ export const mockData = {
           "url": "https://www.iloveimg.com/",
           "description": "图片工具",
           "icon": "https://www.iloveimg.com/img/favicons-img/favicon-16x16.png"
+        },
+        {
+          "id": "site-1758121974566",
+          "name": "libre search",
+          "url": "https://so.ddns-ip.net/",
+          "description": "元搜索引擎",
+          "icon": "https://so.ddns-ip.net/static/themes/simple/img/favicon.png"
         }
       ]
     },
