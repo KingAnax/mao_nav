@@ -146,6 +146,20 @@ export const mockData = {
           "url": "https://music.gdstudio.xyz/",
           "description": "音乐",
           "icon": "https://music.gdstudio.xyz/favicon.ico"
+        },
+        {
+          "id": "site-1758123956409",
+          "name": "emu666",
+          "url": "https://www.emu666.com/",
+          "description": "gba模拟器",
+          "icon": "https://asset.emu666.com/_next/static/media/favicon.4a2ea280.ico"
+        },
+        {
+          "id": "site-1758124095938",
+          "name": "bestgames",
+          "url": "https://www.bestgames.com",
+          "description": "小游戏",
+          "icon": "https://www.bestgames.com/favicon.ico"
         }
       ]
     },
