@@ -189,6 +189,13 @@ export const mockData = {
           "url": "https://www.crxsoso.com/",
           "description": "crx插件下载",
           "icon": "https://www.crxsoso.com/apple-touch-icon.png"
+        },
+        {
+          "id": "site-1758123252155",
+          "name": "nite07",
+          "url": "https://www.nite07.com",
+          "description": "破解软件下载",
+          "icon": ""
         }
       ]
     }
