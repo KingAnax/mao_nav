@@ -120,6 +120,13 @@ export const mockData = {
           "icon": "https://www.pipiyao.cc/mxtheme/images/favicon.png"
         },
         {
+          "id": "site-1758122456760",
+          "name": "嘀哩嘀哩",
+          "url": "https://www.dilidili23.com/",
+          "description": "影视",
+          "icon": "https://www.dilidili23.com/upload/mxprocms/20240919-1/93528aaea29d010997bbc1e39d29ddee.jpg"
+        },
+        {
           "id": "site-1758120258655",
           "name": "包子漫画",
           "url": "https://cn.webmota.com/",
