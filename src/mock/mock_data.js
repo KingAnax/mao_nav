@@ -75,6 +75,13 @@ export const mockData = {
           "url": "https://www.pipiyao.cc/",
           "description": "影视",
           "icon": "https://www.pipiyao.cc/mxtheme/images/favicon.png"
+        },
+        {
+          "id": "site-1758120258655",
+          "name": "包子漫画",
+          "url": "https://cn.webmota.com/",
+          "description": "漫画",
+          "icon": "https://static-tw.baozimh.com/static/bzmh/img/favicon.ico"
         }
       ]
     }
