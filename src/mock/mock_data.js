@@ -60,8 +60,15 @@ export const mockData = {
           "id": "site-1758119903193",
           "name": "agedm",
           "url": "https://www.agedm.io/",
-          "description": "动漫网站",
+          "description": "动漫",
           "icon": "https://www.agedm.io/favicon.ico"
+        },
+        {
+          "id": "site-1758120985678",
+          "name": "次元城",
+          "url": "https://www.cycity.pro/",
+          "description": "动漫",
+          "icon": "https://www.cycani.org/upload/site/20240319-1/25e700991446a527804c82a744731b60.png"
         },
         {
           "id": "site-1758120048592",
@@ -75,13 +82,6 @@ export const mockData = {
           "url": "https://www.pipiyao.cc/",
           "description": "影视",
           "icon": "https://www.pipiyao.cc/mxtheme/images/favicon.png"
-        },
-        {
-          "id": "site-1758120985678",
-          "name": "次元城",
-          "url": "https://www.cycity.pro/",
-          "description": "动漫",
-          "icon": "https://www.cycani.org/upload/site/20240319-1/25e700991446a527804c82a744731b60.png"
         },
         {
           "id": "site-1758120258655",
