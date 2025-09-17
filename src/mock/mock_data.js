@@ -12,6 +12,13 @@ export const mockData = {
           "url": "https://nanobananafree.ai/",
           "description": "free图片生成",
           "icon": "https://nanobananafree.ai/favicon.ico"
+        },
+        {
+          "id": "site-1758122046828",
+          "name": "豆包",
+          "url": "https://www.doubao.com/",
+          "description": "豆包AI",
+          "icon": "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao/web/logo-icon.png"
         }
       ]
     },
