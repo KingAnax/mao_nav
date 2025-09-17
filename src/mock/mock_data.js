@@ -10,7 +10,7 @@ export const mockData = {
           "id": "site-1758121284124",
           "name": "nanobanana",
           "url": "https://nanobananafree.ai/",
-          "description": "freen图片生成",
+          "description": "free图片生成",
           "icon": "https://nanobananafree.ai/favicon.ico"
         }
       ]
