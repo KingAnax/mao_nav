@@ -36,18 +36,11 @@ export const mockData = {
       "order": 1,
       "sites": [
         {
-          "id": "json-formatter",
-          "name": "JSON Formatter",
-          "url": "https://jsonformatter.org",
-          "description": "JSON格式化工具",
-          "icon": "/sitelogo/jsonformatter.org.ico"
-        },
-        {
-          "id": "regex101",
-          "name": "Regex101",
-          "url": "https://regex101.com",
-          "description": "正则表达式测试",
-          "icon": "/sitelogo/regex101.com.ico"
+          "id": "site-1758153675665",
+          "name": "在线工具",
+          "url": "https://www.zxgongju.com/",
+          "description": "常用工具合集",
+          "icon": "https://www.zxgongju.com/favicon.ico"
         },
         {
           "id": "site-1758121454635",
