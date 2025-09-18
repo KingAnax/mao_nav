@@ -154,13 +154,6 @@ export const mockData = {
           "url": "https://www.emu666.com/",
           "description": "gba模拟器",
           "icon": "https://asset.emu666.com/_next/static/media/favicon.4a2ea280.ico"
-        },
-        {
-          "id": "site-1758124095938",
-          "name": "bestgames",
-          "url": "https://www.bestgames.com",
-          "description": "小游戏",
-          "icon": "https://www.bestgames.com/favicon.ico"
         }
       ]
     },
