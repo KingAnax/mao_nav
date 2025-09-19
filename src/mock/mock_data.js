@@ -29,20 +29,6 @@ export const mockData = {
           "icon": "https://www.zxgongju.com/favicon.ico"
         },
         {
-          "id": "site-1758121454635",
-          "name": "ilovepdf",
-          "url": "https://www.ilovepdf.com/zh-cn",
-          "description": "pdf工具",
-          "icon": "https://www.ilovepdf.com/img/favicons-pdf/favicon-32x32.png"
-        },
-        {
-          "id": "site-1758121543771",
-          "name": "iloveimg",
-          "url": "https://www.iloveimg.com/zh-cn",
-          "description": "图片工具",
-          "icon": "https://www.iloveimg.com/img/favicons-img/favicon-16x16.png"
-        },
-        {
           "id": "site-1758121974566",
           "name": "libre search",
           "url": "https://so.ddns-ip.net/",
