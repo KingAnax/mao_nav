@@ -44,20 +44,6 @@ export const mockData = {
       "order": 2,
       "sites": [
         {
-          "id": "bilibili",
-          "name": "哔哩哔哩",
-          "url": "https://www.bilibili.com",
-          "description": "弹幕视频网站",
-          "icon": "/sitelogo/www.bilibili.com.ico"
-        },
-        {
-          "id": "youtube",
-          "name": "YouTube",
-          "url": "https://www.youtube.com",
-          "description": "视频分享平台",
-          "icon": "/sitelogo/www.youtube.com.ico"
-        },
-        {
           "id": "site-1758119903193",
           "name": "agedm",
           "url": "https://www.agedm.io/",
