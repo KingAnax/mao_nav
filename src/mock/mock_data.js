@@ -24,7 +24,7 @@ export const mockData = {
           "id": "site-1758332214050",
           "name": "hivechat公益站",
           "url": "https://hivechat.jhun.edu.kg/chat",
-          "description": "free AI",
+          "description": "free对话",
           "icon": "https://hivechat.jhun.edu.kg/icon.png?798b0d7b8609ff7b"
         }
       ]
