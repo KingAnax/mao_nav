@@ -22,10 +22,10 @@ export const mockData = {
         },
         {
           "id": "site-1758332214050",
-          "name": "gemini公益站",
-          "url": "https://gemini.jhun.edu.kg/",
+          "name": "hivechat公益站",
+          "url": "https://hivechat.jhun.edu.kg/chat",
           "description": "free gemini",
-          "icon": ""
+          "icon": "https://hivechat.jhun.edu.kg/icon.png?798b0d7b8609ff7b"
         }
       ]
     },
