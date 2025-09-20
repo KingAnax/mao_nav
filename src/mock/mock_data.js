@@ -12,6 +12,13 @@ export const mockData = {
           "url": "https://nanobananafree.ai/",
           "description": "free图片生成",
           "icon": "https://nanobananafree.ai/favicon.ico"
+        },
+        {
+          "id": "site-1758331825947",
+          "name": "VEO视频生成",
+          "url": "https://my-veo-rjsp33hvp-tian1002s-projects.vercel.app/",
+          "description": "free视频生成",
+          "icon": ""
         }
       ]
     },
