@@ -19,6 +19,13 @@ export const mockData = {
           "url": "https://my-veo-rjsp33hvp-tian1002s-projects.vercel.app/",
           "description": "free视频生成",
           "icon": ""
+        },
+        {
+          "id": "site-1758332214050",
+          "name": "hivechat公益站",
+          "url": "http://hivechat.jhun.edu.kg/chat",
+          "description": "free gemini",
+          "icon": ""
         }
       ]
     },
