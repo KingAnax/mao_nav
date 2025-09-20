@@ -26,6 +26,13 @@ export const mockData = {
           "url": "https://hivechat.jhun.edu.kg/chat",
           "description": "free对话",
           "icon": "https://hivechat.jhun.edu.kg/icon.png?798b0d7b8609ff7b"
+        },
+        {
+          "id": "site-1758347869825",
+          "name": "lhyb",
+          "url": "https://o.lhyb.dpdns.org/",
+          "description": "免费AI聊天",
+          "icon": "https://o.lhyb.dpdns.org/static/favicon.png"
         }
       ]
     },
