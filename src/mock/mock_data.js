@@ -21,6 +21,13 @@ export const mockData = {
           "icon": ""
         },
         {
+          "id": "site-1758423444666",
+          "name": "chatk",
+          "url": "https://chat2.oaichat.cc/",
+          "description": "free对话",
+          "icon": "https://chat2.oaichat.cc/static/favicon.png"
+        },
+        {
           "id": "site-1758332214050",
           "name": "hivechat公益站",
           "url": "https://hivechat.jhun.edu.kg/chat",
