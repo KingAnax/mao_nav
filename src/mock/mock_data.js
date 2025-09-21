@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://o.lhyb.dpdns.org/",
           "description": "免费AI聊天",
           "icon": "https://o.lhyb.dpdns.org/static/favicon.png"
+        },
+        {
+          "id": "site-1758460436862",
+          "name": "chatz",
+          "url": "https://chat.z.ai/",
+          "description": "聊天+制作ppt",
+          "icon": "https://z-cdn.chatglm.cn/z-ai/static/logo.svg"
         }
       ]
     },
