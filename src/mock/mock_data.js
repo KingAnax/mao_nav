@@ -210,6 +210,20 @@ export const mockData = {
           "url": "https://www.gamer520.com/",
           "description": "游戏下载",
           "icon": "https://ig.freer.blog/2023/10/25/d67adcffb89dd.jpg"
+        },
+        {
+          "id": "site-1758442956297",
+          "name": "百度网盘解析站1",
+          "url": "https://dp.nxina.cfd/user/parse",
+          "description": "百度网盘解析",
+          "icon": ""
+        },
+        {
+          "id": "site-1758442979278",
+          "name": "百度网盘解析站2",
+          "url": "https://www.wpmm.xyz/user/parse",
+          "description": "百度网盘解析",
+          "icon": ""
         }
       ]
     }
