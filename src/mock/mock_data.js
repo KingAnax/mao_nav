@@ -69,6 +69,13 @@ export const mockData = {
           "url": "https://so.ddns-ip.net/",
           "description": "元搜索引擎",
           "icon": "https://so.ddns-ip.net/static/themes/simple/img/favicon.png"
+        },
+        {
+          "id": "site-1758633876116",
+          "name": "订阅节点转换",
+          "url": "https://sublink-worker.2206840083.workers.dev/",
+          "description": "订阅节点转换",
+          "icon": ""
         }
       ]
     },
