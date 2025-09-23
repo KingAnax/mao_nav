@@ -240,6 +240,21 @@ export const mockData = {
           "icon": ""
         }
       ]
+    },
+    {
+      "id": "category-1758631464152",
+      "icon": "☁️",
+      "name": "翻墙",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1758631479382",
+          "name": "bsbb",
+          "url": "https://www.bsbb.cc/",
+          "description": "免费VPN",
+          "icon": ""
+        }
+      ]
     }
   ],
   "title": "猫猫导航"
