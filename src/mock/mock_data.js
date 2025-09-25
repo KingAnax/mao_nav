@@ -47,6 +47,13 @@ export const mockData = {
           "url": "https://chat.z.ai/",
           "description": "聊天+制作ppt",
           "icon": "https://z-cdn.chatglm.cn/z-ai/static/logo.svg"
+        },
+        {
+          "id": "site-1758760790271",
+          "name": "rawchat",
+          "url": "https://sharedchat.fun/",
+          "description": "共享账号",
+          "icon": ""
         }
       ]
     },
