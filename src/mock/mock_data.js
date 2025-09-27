@@ -274,6 +274,13 @@ export const mockData = {
           "url": "https://www.bsbb.cc/",
           "description": "免费VPN",
           "icon": ""
+        },
+        {
+          "id": "site-1758979505031",
+          "name": "ikuuu",
+          "url": "https://ikuuu.de",
+          "description": "免费VPN",
+          "icon": ""
         }
       ]
     }
