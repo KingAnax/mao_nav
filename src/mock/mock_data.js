@@ -281,6 +281,13 @@ export const mockData = {
           "url": "https://ikuuu.de",
           "description": "免费VPN",
           "icon": ""
+        },
+        {
+          "id": "site-1759798736497",
+          "name": "dpdns",
+          "url": "https://subone.dpdns.org/",
+          "description": "免费vpn",
+          "icon": ""
         }
       ]
     }
