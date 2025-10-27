@@ -123,7 +123,7 @@ export const mockData = {
         {
           "id": "site-1758122456760",
           "name": "嘀哩嘀哩",
-          "url": "https://www.dilidili23.com/",
+          "url": "https://www.dilidili123.com/",
           "description": "影视",
           "icon": "https://www.dilidili23.com/upload/mxprocms/20240919-1/93528aaea29d010997bbc1e39d29ddee.jpg"
         },
